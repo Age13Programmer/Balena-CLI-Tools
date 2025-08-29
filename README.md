@@ -1,3 +1,10 @@
+## Balena CLI Tools
+
+### Perché
+Balena CLI Tools nasce dall'esigenza personale di automatizzare l'installazione e la gestione di Balena CLI senza passare ore a cercare su internet i comandi per farlo funzionare.
+
+---
+
 ## Descrizione
 
 Questo repository contiene uno script Bash per facilitare l'installazione e la gestione di **Balena CLI** su sistemi Linux. Lo script guida l'utente passo passo, rilevando automaticamente la distribuzione Linux in uso (Ubuntu/Debian, Fedora, Arch Linux) e automatizzando alcune operazioni comuni.
