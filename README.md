@@ -1,9 +1,5 @@
 ## Balena CLI Tools
 
-<div align="center">
-[![Versione 1.0.0](https://img.shields.io/badge/Versione-1.0.0-blue)](https://github.com/Age13Programmer/Balena-CLI-Tools/releases/tag/Linux)
-</div>
-
 ### Perché
 Balena CLI Tools nasce dall'esigenza personale di automatizzare l'installazione e la gestione di Balena CLI senza passare ore a cercare su internet i comandi per farlo funzionare.
 
