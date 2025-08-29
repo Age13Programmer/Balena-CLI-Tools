@@ -9,3 +9,5 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+show_downloads: true
