@@ -1,0 +1,11 @@
+title: "Balena CLI Tools"
+description: "Un sito statico generato con Jekyll e il tema Architect"
+theme: jekyll-theme-architect
+
+url: "https://Age13Programmer.github.io"
+baseurl: "/Balena-CLI-Tools/"
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
