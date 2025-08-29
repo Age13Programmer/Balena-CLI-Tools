@@ -10,7 +10,7 @@ Questo repository contiene uno script Bash per facilitare l'installazione e la g
 
 * Installazione guidata di **Balena CLI**:
 
-  * Download della versione scelta dal repository ufficiale GitHub di Balena.
+  * Download della versione scelta dal repository ufficiale GitHub di Balena CLI.
   * Estrazione e posizionamento dei file in `/home/$USER/balena/bin`.
   * Aggiornamento del `PATH` per l'utente e suggerimento per aggiungerlo ai sudoers.
 * Interfaccia interattiva semplice tramite terminale.
@@ -23,7 +23,7 @@ Questo repository contiene uno script Bash per facilitare l'installazione e la g
 1. Clona o scarica questo repository:
 
    ```bash
-   git clone https://github.com/tuo-username/balena-cli-tools.git
+   git clone https://github.com/age13programmer/balena-cli-tools.git
    cd balena-cli-tools
    ```
 2. Rendi lo script eseguibile:
